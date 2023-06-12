@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhi-zorro
-- 👀 I’m interested in Web Development, Building software architecture, AI & ML
-- 🌱 I’m currently learning to become a pragmatic programmer
+- 👀 I’m interested in Web Development, software architecture, AI & ML
+- 🌱 I’m aspiring to become a pragmatic programmer
 
 
 <!---
